@@ -34,7 +34,10 @@ I love building projects where **AI meets creativity**, from intelligent applica
 ## 🧠 My Tech Universe
 
 ### 💻 Languages
-
+HTML
+CSS 
+MY SQL
+PYTHON BASICES
 
 
 \
@@ -65,21 +68,6 @@ Tech:
 
 ---
 
-## 🍽️ ResQMeal
-
-A food rescue platform connecting food donors, volunteers, and organizations.
-
-Features:
-
-* Role-based authentication
-* AI-powered freshness analysis
-* Donation management
-* QR-based tracking
-
-Tech:
-`React` `Node.js` `Firebase` `AI`
-
----
 
 ## 🎓 GitHub Academy AI
 
@@ -128,9 +116,9 @@ Real World Impact
 
 # 🌐 Connect With Me
 
-💼 LinkedIn: Coming Soon
-📸 Instagram: Tech & Creativity Content
-🎥 YouTube: Exploring Technology, AI & Stories
+💼 LinkedIn: [Coming Soon](https://www.linkedin.com/in/yogananda-h-s-6491b437a?)
+📸 Instagram: audinex_tech
+🎥 YouTube: audinex_tech
 
 ---
 
