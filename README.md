@@ -36,7 +36,7 @@ I love building projects where **AI meets creativity**, from intelligent applica
 ### 💻 Languages
 HTML,
 CSS, 
-MY SQL
+MY SQL,
 PYTHON BASICES
 
 
