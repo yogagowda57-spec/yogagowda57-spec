@@ -34,8 +34,8 @@ I love building projects where **AI meets creativity**, from intelligent applica
 ## 🧠 My Tech Universe
 
 ### 💻 Languages
-HTML
-CSS 
+HTML,
+CSS, 
 MY SQL
 PYTHON BASICES
 
