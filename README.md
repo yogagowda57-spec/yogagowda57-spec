@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yoga!
+# 👋 Hey, I'm Yogananda!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AIML+Student+%F0%9F%A4%96;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Building+AI+Powered+Projects+%E2%9C%A8;Exploring+Tech%2C+Stories+%26+Creativity+%F0%9F%8E%A5" />
 
