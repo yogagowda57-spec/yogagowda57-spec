@@ -40,18 +40,10 @@ MY SQL,
 PYTHON BASICES
 
 
-\
-
 ### ⚙️ Development
 
 
-
-\
-
 ### 🤖 AI & ML
-
-
-\
 
 ---
 
