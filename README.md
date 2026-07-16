@@ -108,7 +108,8 @@ Real World Impact
 
 # 🌐 Connect With Me
 
-💼 LinkedIn: [Coming Soon](https://www.linkedin.com/in/yogananda-h-s-6491b437a?)
+E-MAIL: yogagowda57@gmail.com
+💼 LinkedIn:(https://www.linkedin.com/in/yogananda-h-s-6491b437a?)
 📸 Instagram: audinex_tech
 🎥 YouTube: audinex_tech
 
