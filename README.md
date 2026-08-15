@@ -9,7 +9,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Yogananda"
+        self.name = "Yogananda H S"
         self.role = "AI & ML Student"
         self.goal = "Building useful products with technology"
 
