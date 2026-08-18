@@ -39,7 +39,7 @@ HTML,
 CSS,
 JS,
 MY SQL,
-PYTHON BASICS
+PYTHON 
 
 
 ### ⚙️ Development
