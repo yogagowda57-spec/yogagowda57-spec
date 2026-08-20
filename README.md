@@ -98,18 +98,6 @@ Human Creativity
 Real World Impact
 ```
 
----
-
-# 📊 GitHub Journey
-
-
-
----
-
-# 🐍 Contribution Journey
-
----
-
 # 🌐 Connect With Me
 
 E-MAIL: yogagowda57@gmail.com
