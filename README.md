@@ -25,7 +25,7 @@ class Developer:
 me = Developer()
 ```
 
-🚀 I am an AIML student passionate about creating technology that solves real-world problems(like gitmaster).
+🚀 I am an AIML student passionate about creating technology that solves real-world problems(like gitmaster, sql detector).
 
 I love building projects where **AI meets creativity**, from intelligent applications to developer tools.
 I started learning 3-d web building with ai tools
