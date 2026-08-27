@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yogananda H S!
+# 👋 Hi there, I'm Yogananda H S !
 
 
 ## 🚀 About Me
