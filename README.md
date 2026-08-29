@@ -141,6 +141,6 @@ A practice-focused web application for improving Python programming through codi
 
 **Thanks for visiting my profile! 🚀**
 
-⭐ Feel free to explore my repositories and follow my journey.
+⭐ Feel free to explore my repositories and follow my journey and don't forgot give star.
 
 </div>
