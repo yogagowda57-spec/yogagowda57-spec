@@ -119,7 +119,7 @@ A practice-focused web application for improving Python programming through codi
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me:
 
 <p align="center">
 
