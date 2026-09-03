@@ -1,22 +1,46 @@
-# 👋 Hi there, I'm Yogananda H S !
+# 👋 Hey, I'm Yogananda H S 😎
 
+> 💻 `while(alive) { code(); }`
 
-## 🚀 About Me
+### 🧠 About Me
 
-I'm a **2nd-semester AI & ML student under VTU** who loves building things with code and AI.
-
-* 💻 Interested in **Software Development & AI/ML**
-* 🤖 Exploring **Machine Learning & Deep Learning**
-* 🌐 Building websites and web applications
-* 🧠 Practicing Python and problem solving
-* 🔧 Learning by building real projects
-* 🚀 Always experimenting with new technologies
-
-> **Code. Learn. Build. Repeat. 🚀**
+* 🎓 AIML Engineering Student
+* 🐍 Python learner
+* 🌐 HTML + CSS enjoyer
+* ☕ Powered by caffeine and `print("Hello World")`
+* 🧠 Currently teaching my brain how to understand **DSA**
+* 🐛 Professional bug creator & part-time bug fixer
+* 🚀 Building projects instead of sleeping
+* 🔥 GitHub contribution graph = my emotional support
 
 ---
 
-## 🛠️ Skills & Technologies
+### 💻 My Tech Stack
+
+```text
+HTML       ██████████░░  80%
+CSS        ████████░░░░  70%
+Python     ███████░░░░░  60%
+Java       █████░░░░░░░  40%
+JavaScript ████░░░░░░░░  35%
+Git        █████░░░░░░░  45%
+DSA        ██░░░░░░░░░░  20%  ← currently fighting this boss
+```
+
+---
+
+### 🐛 Current Status
+
+```python
+me = {
+    "sleep": False,
+    "coding": True,
+    "bugs": "unlimited",
+    "motivation": "sometimes",
+    "coffee": "required",
+    "DSA": "why bro why 💀"
+}
+```
 
 ### 💻 Programming
 
