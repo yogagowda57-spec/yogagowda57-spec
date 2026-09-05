@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yogananda H S 😎
 
-> 💻 `while(#alive) { code(); }`
+> 💻 `while(#alive) { code(daily); }`
 
 ### 🧠 About Me
 
