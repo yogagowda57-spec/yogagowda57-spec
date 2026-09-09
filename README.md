@@ -30,7 +30,7 @@ DSA        ██░░░░░░░░░░  20%  ← currently fighting thi
 
 ---
 
-### 🐛 Current Status
+### 🐛 Current Status :
 
 ```python
 me = {
