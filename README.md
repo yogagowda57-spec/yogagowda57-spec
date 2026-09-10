@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Yogananda H S 😎
-
+    READ REMEMBER REVICE
 > 💻 `while(#alive) { code(#daily); }`
 
 ### 🧠 About Me:
