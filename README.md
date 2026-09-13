@@ -7,6 +7,7 @@
 * 🎓 AIML Engineering Student
 * 🐍 Python learner
 * 🌐 HTML + CSS enjoyer
+* 💻 MY SQL complete with 150 problems
 * ☕ Powered by caffeine and `print("MY World")`
 * 🧠 Currently teaching my brain how to understand **DSA**
 * 🐛 Professional bug creator & part-time bug fixer
