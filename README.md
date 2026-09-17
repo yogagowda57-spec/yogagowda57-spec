@@ -79,9 +79,9 @@ me = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:
 
-### 🧮 CADE AI
+### 🧮 CADE AI(subject program)
 
 **Computational Analysis & Drawing Engine**
 
