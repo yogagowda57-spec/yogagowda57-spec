@@ -39,7 +39,7 @@ me = {
     "coding": True,
     "bugs": "unlimited",
     "motivation": "sometimes",
-    "energy": "required",
+    "energy": "required a lot",
     "DSA": "why bro why 💀"
 }
 ```
