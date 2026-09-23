@@ -81,25 +81,25 @@ me = {
 
 ## 🚀 Featured Projects:
 
-### 🧮 CADE AI(subject program)
+### 🧮 CADE AI(subject program):
 
 **Computational Analysis & Drawing Engine**
 
 An AI-powered concept for analyzing engineering questions, generating solutions, explaining drawing steps, and recommending learning resources.
 
-### 🍱 ResQMeal
+### 🍱 ResQMeal:
 
 **Food Rescue & Donation Platform**
 
 A platform designed to connect food donors, NGOs, volunteers, and administrators to reduce food waste and help people in need.
 
-### 🐙 GitMaster
+### 🐙 GitMaster:
 
 **Git & GitHub Learning Platform**
 
 A beginner-friendly platform designed to make learning Git and GitHub easier through practical scenarios and challenges.
 
-### 🐍 PyPractice
+### 🐍 PyPractice:
 
 **Python Practice Platform**
 
@@ -107,7 +107,7 @@ A practice-focused web application for improving Python programming through codi
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning:
 
 * 🧠 Machine Learning
 * 🤖 Deep Learning
@@ -119,7 +119,7 @@ A practice-focused web application for improving Python programming through codi
 
 ---
 
-## 🎯 My Goals
+## 🎯 My Goals:
 
 * 🚀 Build useful real-world applications
 * 🤖 Become strong in AI/ML
@@ -131,7 +131,7 @@ A practice-focused web application for improving Python programming through codi
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub:
 
 <div align="center">
 
