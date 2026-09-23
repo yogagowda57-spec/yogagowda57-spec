@@ -11,7 +11,7 @@
 * ☕ Powered by caffeine and `print("MY World")`
 * 🧠 Currently teaching my brain how to understand **DSA**
 * 🐛 Professional bug creator & part-time bug fixer
-* 🚀 Building projects instead of sleeping
+* 🚀 Building projects instead of sleeping overnight
 * 🔥 GitHub contribution graph = my emotional support
 
 ---
