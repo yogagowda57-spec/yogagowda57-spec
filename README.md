@@ -82,12 +82,6 @@ me = {
 
 ## 🚀 Featured Projects:
 
-### 🧮 CADE AI(subject program):
-
-**Computational Analysis & Drawing Engine**
-
-An AI-powered concept for analyzing engineering questions, generating solutions, explaining drawing steps, and recommending learning resources.
-
 ### 🍱 ResQMeal:
 
 **Food Rescue & Donation Platform**
