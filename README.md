@@ -25,7 +25,6 @@ CSS        ████████░░░░  70%
 MYSQL      ██████████░░  85%
 Python     ███████░░░░░  60%
 Java       █████░░░░░░░  40%
-JavaScript ████░░░░░░░░  35%
 Git        █████░░░░░░░  45%
 DSA        ██░░░░░░░░░░  20%  ← currently fighting this boss
 ```
