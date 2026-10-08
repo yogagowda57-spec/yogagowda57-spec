@@ -93,6 +93,8 @@ A platform designed to connect food donors, NGOs, volunteers, and administrators
 
 A beginner-friendly platform designed to make learning Git and GitHub easier through practical scenarios and challenges.
 
+web url: yora-chi.vercel.app
+
 ### 🐍 PyPractice:
 
 **Python Practice Platform**
