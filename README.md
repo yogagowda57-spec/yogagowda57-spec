@@ -14,6 +14,7 @@
 * 🐛 Professional bug creator & part-time bug fixer
 * 🚀 Building projects instead of sleeping overnight
 * 🔥 GitHub contribution graph = my emotional support
+* 💻 AWS Learner
 
 ---
 
