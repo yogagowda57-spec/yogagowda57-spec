@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yogananda H S 😎
+# 👋 Hey, I'm Yogananda😎
     READ.REMEMBER.REVICE
     Only rule to success 
 > 💻 `while(#alive) { code(#daily); }`
