@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Yogananda😎
+# 👋 Hey, I'm Yogananda H S😎
     READ.REMEMBER.REVICE
     Only rule to success 
 > 💻 `while(#alive) { code(#daily); }`
 
 ### 🧠 About Me:
 
-* 🎓 AIML Engineering Student
+* 🎓 AIML Engineering Student @ MRIT
 * 🐍 Python learner
 * 🌐 HTML + CSS enjoyer
 * 💻 MY SQL complete with 170 problems
