@@ -1,6 +1,6 @@
 # 🙌 Hello, I'm Yogananda H S 😎
     READ.REMEMBER.REVICE
-    Only rule to success 
+    Only way to success 
 > 💻 `while(#alive) { code(#daily); }`
 
 ## 🧠 About Me:
