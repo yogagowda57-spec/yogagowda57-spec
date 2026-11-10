@@ -1,5 +1,6 @@
 # 🙌 Hello, I'm Yogananda H S 😎
     READ.REMEMBER.REVICE
+    only way to success
  
 > 💻 `while(#alive) { code(#daily); }`
 
