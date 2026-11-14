@@ -1,4 +1,4 @@
-# 🙌 Hello, I'm Yogananda H S 😎
+# 🙌 Hello, I'm Yogananda H S 
     READ.REMEMBER.REVICE
     only way to success
  
@@ -6,7 +6,7 @@
 
 ## 🧠 About Me:
 
-* 🎓 AIML Engineering Student @ MRIT
+* 🎓 AIML Engineering Student
 * 🐍 Python learner
 * 🌐 HTML + CSS enjoyer
 * 💻 MY SQL complete with 170 problems
