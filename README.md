@@ -2,7 +2,7 @@
     READ.REMEMBER.REVICE
     only way to success
  
-> 💻 `while(#alive) { code(#daily); }`
+> 💻 `while(#alive) { code(#daily without coffee); }`
 
 ## 🧠 About Me:
 
