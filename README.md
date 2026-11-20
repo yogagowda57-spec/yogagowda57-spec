@@ -4,7 +4,7 @@
  
 > 💻 `while(#alive) { code(#daily without coffee); }`
 
-### 🧠 About Me:
+🧠 About Me:
 
 * 🎓 AIML Engineering Student
 * 🐍 Python learner
